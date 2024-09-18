@@ -1,0 +1,10 @@
+exports[`test Renders OverlayAgenttip correctly 1`] = `
+<span
+  onBlur={[Function]}
+  onClick={null}
+  onFocus={[Function]}
+  onMouseOut={[Function]}
+  onMouseOver={[Function]}>
+  OverlayAgenttip child
+</span>
+`;
